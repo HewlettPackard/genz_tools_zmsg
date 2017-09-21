@@ -1,0 +1,48 @@
+PRINT_DIFF:time_difference: -  0.211 seconds   0.00351667 minutes
+ latency=1.055e-005 cum_errors=0 seq=10000
+PRINT_DIFF:time_difference: -  0.226 seconds   0.00376667 minutes
+ latency=1.13e-005 cum_errors=0 seq=20000
+PRINT_DIFF:time_difference: -  0.2 seconds   0.00333333 minutes
+ latency=1e-005 cum_errors=0 seq=30000
+PRINT_DIFF:time_difference: -  0.195 seconds   0.00325 minutes
+ latency=9.75e-006 cum_errors=0 seq=40000
+PRINT_DIFF:time_difference: -  0.219 seconds   0.00365 minutes
+ latency=1.095e-005 cum_errors=0 seq=50000
+PRINT_DIFF:time_difference: -  0.2 seconds   0.00333333 minutes
+ latency=1e-005 cum_errors=0 seq=60000
+PRINT_DIFF:time_difference: -  0.205 seconds   0.00341667 minutes
+ latency=1.025e-005 cum_errors=0 seq=70000
+PRINT_DIFF:time_difference: -  0.203 seconds   0.00338333 minutes
+ latency=1.015e-005 cum_errors=0 seq=80000
+PRINT_DIFF:time_difference: -  0.204 seconds   0.0034 minutes
+ latency=1.02e-005 cum_errors=0 seq=90000
+PRINT_DIFF:time_difference: -  0.203 seconds   0.00338333 minutes
+ latency=1.015e-005 cum_errors=0 seq=100000
+PRINT_DIFF:time_difference: -  0.206 seconds   0.00343333 minutes
+ latency=1.03e-005 cum_errors=0 seq=110000
+PRINT_DIFF:time_difference: -  0.217 seconds   0.00361667 minutes
+ latency=1.085e-005 cum_errors=0 seq=120000
+PRINT_DIFF:time_difference: -  0.203 seconds   0.00338333 minutes
+ latency=1.015e-005 cum_errors=0 seq=130000
+PRINT_DIFF:time_difference: -  0.208 seconds   0.00346667 minutes
+ latency=1.04e-005 cum_errors=0 seq=140000
+PRINT_DIFF:time_difference: -  0.202 seconds   0.00336667 minutes
+ latency=1.01e-005 cum_errors=0 seq=150000
+PRINT_DIFF:time_difference: -  0.206 seconds   0.00343333 minutes
+ latency=1.03e-005 cum_errors=0 seq=160000
+PRINT_DIFF:time_difference: -  0.212 seconds   0.00353333 minutes
+ latency=1.06e-005 cum_errors=0 seq=170000
+PRINT_DIFF:time_difference: -  0.205 seconds   0.00341667 minutes
+ latency=1.025e-005 cum_errors=0 seq=180000
+PRINT_DIFF:time_difference: -  0.215 seconds   0.00358333 minutes
+ latency=1.075e-005 cum_errors=0 seq=190000
+PRINT_DIFF:time_difference: -  0.203 seconds   0.00338333 minutes
+ latency=1.015e-005 cum_errors=0 seq=200000
+PRINT_DIFF:time_difference: -  0.204 seconds   0.0034 minutes
+ latency=1.02e-005 cum_errors=0 seq=210000
+PRINT_DIFF:time_difference: -  0.202 seconds   0.00336667 minutes
+ latency=1.01e-005 cum_errors=0 seq=220000
+PRINT_DIFF:time_difference: -  0.194 seconds   0.00323333 minutes
+ latency=9.7e-006 cum_errors=0 seq=230000
+PRINT_DIFF:time_difference: -  0.203 seconds   0.00338333 minutes
+ latency=1.015e-005 cum_errors=0 seq=240000

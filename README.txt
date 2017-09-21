@@ -1,0 +1,2 @@
+
+The ZMSG project provides a toolkit for modeling interface devices that communicate across a memory-semantic fabric.  This is intended to be used as a tool to study the Gen-Z memory-semantic fabric architecture.
